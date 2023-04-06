@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 24 06:37:07 2023
-@author: baris
-"""
 
 #bağlantı penceresine işlev ekleme
 
