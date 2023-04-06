@@ -9,7 +9,11 @@ main.py ana dizin.
 Gereken kütüphaneler
 
 pip install PyQt5=5.15.9
+
 pip install pyserial=3.5
+
 pip install folium=0.14.0
+
 pip install pyqtgraph=0.13.2
+
 pip install PyQtWebEngine=5.15.6
