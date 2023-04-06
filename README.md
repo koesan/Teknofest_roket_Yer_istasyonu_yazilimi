@@ -17,3 +17,11 @@ pip install folium=0.14.0
 pip install pyqtgraph=0.13.2
 
 pip install PyQtWebEngine=5.15.6
+
+Not:
+
+yeristasyonu.ui de veya bağlantı_penceresi.ui de değişiklik yapmak için Designer kullana bilirsiinz.
+
+Değişiklik yaparsanız ui_to_py.py yi çalıştırın ve grafik.txt deki kodları yeristasyonu.py ye eklemelisiniz. 
+
+
