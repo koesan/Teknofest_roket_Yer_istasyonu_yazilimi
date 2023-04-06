@@ -1,0 +1,14 @@
+Yer istasyonu nu güncellediğinde grafik kısmı silinir  bunu yeristasyonu.py de setup ın en altına ekle importu en üste
+
+import pyqtgraph as pg
+      
+        #----------grafik-------------------------------------------------------
+        self.examplePlotWidget = pg.PlotWidget(self.frame)
+        self.examplePlotWidget.setMinimumSize(441,211)
+        self.examplePlotWidget.setBackground((82,82,82))
+        font=QtGui.QFont()
+        font.setPixelSize(3)
+        self.examplePlotWidgetCurve = pg.PlotCurveItem(pen=pg.mkPen(color="#F19C99", width=3))
+        self.examplePlotWidget.addItem(self.examplePlotWidgetCurve)
+        #------------------------------------------------------------------------
+        
