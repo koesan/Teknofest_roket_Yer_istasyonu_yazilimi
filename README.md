@@ -205,6 +205,6 @@ Sistem, TEKNOFEST'in resmi veri formatına uygun şekilde çalışır:
 - Thread-safe veri işleme
 - Modüler ve genişletilebilir tasarım
 
-## 🤝 Katkıda Bulunma
-
-Bu proje TEKNOFEST Roket Yarışması için geliştirilmiştir. 
+<div align="center">
+<b>TEKNOFEST 2023 Roket Yarışması için geliştirilmiştir. İsteyen herkes kullanabilir ve geliştirebilir. 🚀</b>
+</div>
