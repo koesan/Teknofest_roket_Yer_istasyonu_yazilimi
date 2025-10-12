@@ -7,8 +7,6 @@
 [](https://pypi.org/project/pyserial/)
 [](https://www.teknofest.org/)
 
-### Roket Telemetri ve Görselleştirme Sistemi
-
 A ground station software for real-time data visualization and telemetry, developed for the Türkiye TEKNOFEST Rocket Competition.
 
 TEKNOFEST Roket Yarışması için geliştirilmiş, gerçek zamanlı veri görselleştirme ve telemetri yer istasyonu yazılımı
