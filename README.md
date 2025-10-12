@@ -221,8 +221,3 @@ Roket aviyonik yazılımıdır. Sensör verilerini işler, paraşüt açma göre
 **⭐ Bu proje işinize yaradıysa, yıldız vermeyi unutmayın! ⭐**
 
 </div>
-
-
-<div align="center">
-<b>TEKNOFEST 2023 Roket Yarışması için geliştirilmiştir. İsteyen herkes kullanabilir ve geliştirebilir. 🚀</b>
-</div>
