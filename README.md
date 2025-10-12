@@ -205,6 +205,24 @@ Sistem, TEKNOFEST'in resmi veri formatına uygun şekilde çalışır:
 - Thread-safe veri işleme
 - Modüler ve genişletilebilir tasarım
 
+---
+
+<div align="center">
+
+### 🎯 İlgili Projeler
+
+**[🚀 Roket Aviyonik Yazılımı](https://github.com/koesan/Teknofest_roket_ana_aviyonik_kodu)**  
+Roket aviyonik yazılımıdır. Sensör verilerini işler, paraşüt açma görevini gerçekleştirir ve verileri yer istasyonuna iletir. Bu yazılım, roketin görevini güvenli ve başarılı bir şekilde tamamlamasını sağlayan birçok önemli işlevi yerine getirir.
+
+---
+
+**🚀 TEKNOFEST 2023 Roket Yarışması için geliştirilmiştir. İsteyen herkes kullanabilir ve geliştirebilir. 🇹🇷**
+
+**⭐ Bu proje işinize yaradıysa, yıldız vermeyi unutmayın! ⭐**
+
+</div>
+
+
 <div align="center">
 <b>TEKNOFEST 2023 Roket Yarışması için geliştirilmiştir. İsteyen herkes kullanabilir ve geliştirebilir. 🚀</b>
 </div>
