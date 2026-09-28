@@ -1,7 +1,5 @@
 # Yer İstasyonu Yazılımı (Ground Station)
 
-![Ground Station Banner](assets/banner.png)
-
 <div align="center">
 
 ![Language](https://img.shields.io/badge/Language-Python%203-blue)
